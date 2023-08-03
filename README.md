@@ -30,8 +30,9 @@ This course also covers SQL funtions with DATE, CASE, POSITION & STRPOS, CONCAT,
 Learn to apply design and visualization principles to create impactful data visualizations, build data dashboards, and tell stories with data.
 
 * Project 3: Build Data Dashboards
-Using US Census Demographic Data from a Kaggle dataset (the census data for all counties in 2015), I built data visualizations in Tableau by
-
+* Using 2015 Flight Data from a Kaggle dataset:
+* https://www.kaggle.com/datasets/usdot/flight-delays
+* I built data visualizations in Tableau by:
 • Using data hierarchies, filters, groups, sets, and calculated fields
 • Creating map-based data visualizations
 • Building interactive Tableau dashboards
